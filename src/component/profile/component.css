@@ -1,0 +1,15 @@
+.font-style {
+    font-family: 'Montserrat', sans-serif;
+    
+    font-size: 60px;
+    }
+
+.adress{
+color: red;
+text-align: center;
+}
+
+.full-name{
+    color: seagreen;
+    text-align: center;
+}
